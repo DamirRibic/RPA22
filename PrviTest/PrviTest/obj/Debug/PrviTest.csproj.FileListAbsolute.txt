@@ -1,0 +1,12 @@
+D:\RPA22\PrviTest\PrviTest\bin\Debug\PrviTest.exe.config
+D:\RPA22\PrviTest\PrviTest\bin\Debug\PrviTest.exe
+D:\RPA22\PrviTest\PrviTest\bin\Debug\PrviTest.pdb
+D:\RPA22\PrviTest\PrviTest\bin\Debug\EntityFramework.dll
+D:\RPA22\PrviTest\PrviTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\RPA22\PrviTest\PrviTest\bin\Debug\EntityFramework.xml
+D:\RPA22\PrviTest\PrviTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\RPA22\PrviTest\PrviTest\obj\Debug\PrviTest.csproj.AssemblyReference.cache
+D:\RPA22\PrviTest\PrviTest\obj\Debug\PrviTest.csproj.CoreCompileInputs.cache
+D:\RPA22\PrviTest\PrviTest\obj\Debug\PrviTest.csproj.CopyComplete
+D:\RPA22\PrviTest\PrviTest\obj\Debug\PrviTest.exe
+D:\RPA22\PrviTest\PrviTest\obj\Debug\PrviTest.pdb

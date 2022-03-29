@@ -10,9 +10,14 @@ namespace PrviTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello git hub");
+            BazaZaVajeEntities context = new BazaZaVajeEntities();
+            //vsi dobavitelji
+            var x1 = context.DOBAVITELJ;
+            foreach (var y in x1)
+            {
+                Console.WriteLine(y.D_IME+" "+y.D_KONTAKT);
+            }
             Console.ReadLine();
-
         }
     }
 }
