@@ -1,0 +1,12 @@
+D:\RPA22\KlicApija\KlicApija\bin\Debug\KlicApija.exe.config
+D:\RPA22\KlicApija\KlicApija\bin\Debug\KlicApija.exe
+D:\RPA22\KlicApija\KlicApija\bin\Debug\KlicApija.pdb
+D:\RPA22\KlicApija\KlicApija\bin\Debug\Newtonsoft.Json.dll
+D:\RPA22\KlicApija\KlicApija\bin\Debug\System.Net.Http.Formatting.dll
+D:\RPA22\KlicApija\KlicApija\bin\Debug\Newtonsoft.Json.xml
+D:\RPA22\KlicApija\KlicApija\bin\Debug\System.Net.Http.Formatting.xml
+D:\RPA22\KlicApija\KlicApija\obj\Debug\KlicApija.csproj.AssemblyReference.cache
+D:\RPA22\KlicApija\KlicApija\obj\Debug\KlicApija.csproj.CoreCompileInputs.cache
+D:\RPA22\KlicApija\KlicApija\obj\Debug\KlicApija.csproj.CopyComplete
+D:\RPA22\KlicApija\KlicApija\obj\Debug\KlicApija.exe
+D:\RPA22\KlicApija\KlicApija\obj\Debug\KlicApija.pdb
