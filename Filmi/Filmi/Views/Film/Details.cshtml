@@ -1,0 +1,50 @@
+﻿@model Seminarska.Models.Film
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Film</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Režiser.Ime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Režiser.Ime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Žanra)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Žanra)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LetoIzdaje)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LetoIzdaje)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
